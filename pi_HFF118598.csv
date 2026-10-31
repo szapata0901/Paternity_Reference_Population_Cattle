@@ -1,0 +1,3 @@
+offspring,parent,rank,n_snps_used,informative_snps,conflicts,conflict_pct,log10_PI,PI,result,probability_pct,gap_to_next_log10
+HFF118598,HFF97936,1,19997,7943,7,0.08812791136850057,1266.2868987355048,inf,Supported,100.0,5798.016997286262
+HFF118598,HFF69477,2,19990,7425,1749,23.555555555555554,-4531.730098550757,0.0,Not supported,0.0,
